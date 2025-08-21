@@ -1,7 +1,5 @@
 # 😍 Creditzz
 
-Welcome to my GitHub profile. I’m a developer specializing in **C#**, **Lua**, and **C++**, with a strong focus on tooling, exploit architecture, UI/UX, and scripting frameworks.
-
 ---
 
 ## 🧠 About Me
